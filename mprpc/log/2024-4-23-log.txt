@@ -1,0 +1,2 @@
+15:46:22=> [Info]: TEST LOG: /home/bobby/projects/mprpc/example/callee/userservice.cpp:main:44
+15:49:52=> [Info]: TEST LOG: /home/bobby/projects/mprpc/example/callee/userservice.cpp:main:44
